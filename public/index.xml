@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JamStack Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on JamStack Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Page</title>
+      <link>http://example.org/second-page/</link>
+      <pubDate>Mon, 22 May 2023 23:55:18 -0300</pubDate>
+      
+      <guid>http://example.org/second-page/</guid>
+      <description>Post excerpt
+Main Heading#Post content</description>
+    </item>
+    
+    <item>
+      <title>First Page</title>
+      <link>http://example.org/first-page/</link>
+      <pubDate>Thu, 18 May 2023 00:27:30 -0300</pubDate>
+      
+      <guid>http://example.org/first-page/</guid>
+      <description>First JAMStack page#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac diam a neque dignissim ultrices. Ut egestas feugiat urna. Integer aliquet sed est non euismod. Aenean aliquam in elit sit amet convallis. Proin dapibus nisl eu lectus maximus ultrices. Vestibulum feugiat mauris quis ipsum lacinia tempus. Donec vestibulum tortor vel elit efficitur, sit amet pulvinar mauris lacinia. Phasellus vitae semper sem, quis posuere orci.
+Curabitur aliquam nulla a lacus malesuada, a ullamcorper eros cursus.</description>
+    </item>
+    
+  </channel>
+</rss>

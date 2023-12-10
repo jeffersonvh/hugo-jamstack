@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'JamStack Site'
+theme = 'hugo-book'
+copyright = 'Feito por Jeffin'
+disableKinds = ["section"]
